@@ -1,0 +1,10 @@
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/info.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/strip_comments.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/distclean.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/release.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/debug.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/run.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/runclean.dir
+/home/ubuntu/Desktop/Practice/hw-1/CMakeFiles/01_01_new_mesh.dir
